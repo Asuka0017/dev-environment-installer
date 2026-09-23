@@ -1,0 +1,34 @@
+计算机环境自动安装器下载链接
+============================
+
+项目用途
+--------
+本程序适用于 Windows 10/11 x64 新电脑初始化和日常环境配置，包含计算机软件开发、数据库、办公文档、系统运行库、嵌入式、科学计算和云原生工具。
+
+百度网盘
+--------
+需安装.zip
+链接：https://pan.baidu.com/s/19wernz0R6RZesKyGFb3Ghw?pwd=xk7w
+提取码：xk7w
+
+可直接运行程序.zip
+链接：https://pan.baidu.com/s/1njO06jaqJAArePoqCUvb5Q?pwd=yeg4
+提取码：yeg4
+
+夸克网盘
+--------
+需安装.zip
+链接：https://pan.quark.cn/s/924b6bcffb61?pwd=mi9s
+提取码：mi9s
+
+可直接运行程序.zip
+链接：https://pan.quark.cn/s/6faf53aebddf?pwd=KPRt
+提取码：KPRt
+
+使用建议
+--------
+新电脑推荐下载“可直接运行程序.zip”，完整解压后运行 DevEnvironmentInstaller.exe。
+需要完整离线安装时，必须保留 EXE 旁边的 config、engine 和 packages 目录。
+“需安装.zip”用于安装主程序和桌面快捷方式；MSI 本身不包含约 2.24 GB 的第三方离线安装包。
+
+百度网盘和夸克网盘分享链接可能受有效期、平台规则和网络环境影响；如果链接失效，请以最新发布页为准。
