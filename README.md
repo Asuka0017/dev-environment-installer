@@ -13,6 +13,13 @@
 
 完整网盘链接和提取码请查看同目录的纯文本文件：[DOWNLOAD-LINKS.txt](DOWNLOAD-LINKS.txt)。其中包含“需安装版”和“可直接运行版”的百度网盘、夸克网盘链接。
 
+也可以直接使用以下链接：
+
+| 文件 | 百度网盘 | 夸克网盘 |
+| --- | --- | --- |
+| 需安装.zip | [下载（提取码 xk7w）](https://pan.baidu.com/s/19wernz0R6RZesKyGFb3Ghw?pwd=xk7w) | [下载（提取码 mi9s）](https://pan.quark.cn/s/924b6bcffb61?pwd=mi9s) |
+| 可直接运行程序.zip | [下载（提取码 yeg4）](https://pan.baidu.com/s/1njO06jaqJAArePoqCUvb5Q?pwd=yeg4) | [下载（提取码 KPRt）](https://pan.quark.cn/s/6faf53aebddf?pwd=KPRt) |
+
 - **需安装版**：下载后运行 MSI 安装包，可创建桌面快捷方式。
 - **可直接运行版**：解压后直接运行 EXE；要完整离线安装环境，必须保留旁边的 `config`、`engine` 和 `packages` 目录。
 - **推荐**：新电脑优先下载“可直接运行程序”完整目录；只需要安装主程序时再选择 MSI。
