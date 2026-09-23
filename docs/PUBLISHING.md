@@ -12,7 +12,7 @@ GitHub 普通仓库不适合保存大体积离线安装包；超过单文件限�
 
 - 架构：Windows x64
 - 直接运行版：`DevEnvironmentInstaller.exe`
-- 安装包：`开发环境安装器.msi`
+- 安装包：`DevEnvironmentInstaller.msi`
 - 完整离线包：`packages/`，单独分发
 
 ## 发布检查
@@ -22,4 +22,3 @@ GitHub 普通仓库不适合保存大体积离线安装包；超过单文件限�
 3. 单独验证 MSI 安装成功提示和桌面快捷方式。
 4. 发布 EXE、MSI 和 `SHA256SUMS.txt`。
 5. 同步发布离线包目录的下载地址和同版本哈希清单。
-

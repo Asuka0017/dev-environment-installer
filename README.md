@@ -7,7 +7,7 @@ Windows 10/11 x64 的开发环境安装器发布页。安装器支持本地离�
 请进入 [Releases](https://github.com/Asuka0017/dev-environment-installer/releases) 下载：
 
 - `DevEnvironmentInstaller.exe`：直接运行版。
-- `开发环境安装器.msi`：Windows 安装包，可创建桌面快捷方式。
+- `DevEnvironmentInstaller.msi`：Windows 安装包，可创建桌面快捷方式。
 
 完整离线环境包约 2.3 GB，不放入 Git 仓库。需要完全离线安装时，除了 EXE/MSI，还需要从网盘或对象存储获取与版本匹配的 `packages` 目录，并放在程序目录下。
 
@@ -43,4 +43,3 @@ Get-FileHash .\开发环境安装器.msi -Algorithm SHA256
 ## 免责声明
 
 本项目仅用于学习、研究和课程实践。第三方软件的版权、许可证和使用条款归其权利人所有；使用者应自行确认所在地区和使用场景的合规性。
-
