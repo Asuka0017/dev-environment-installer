@@ -1,0 +1,21 @@
+# Generated release binaries are published through GitHub Releases.
+*.exe
+*.msi
+*.zip
+*.7z
+*.iso
+
+# Local build and verification output
+dist/
+artifacts/
+logs/
+packages/
+
+# Credentials and runtime state
+.env
+.env.*
+!.env.example
+*.log
+*.db
+*.sqlite
+
